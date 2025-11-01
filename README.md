@@ -1,1 +1,5 @@
 # digit-recognition
+这是一个基于ai生成的基于cnn的数字识别小项目：
+其中digital recognition.py是一个完整的训练加识别
+train and test是先训练然后保存训练模型到本地方便后续识别时不用再次训练
+predict.py文件是train and test文件保存模型后直接调用就可以直接识别对应地址的图片的数字
